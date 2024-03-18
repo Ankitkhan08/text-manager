@@ -1,3 +1,5 @@
+YOu can visit the site on https://textt.pages.dev/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +70,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![Screenshot (33)](https://github.com/Ankitkhan08/text-manager/assets/100514516/aa038908-549d-4c32-a16a-5402f145e9e8)
+![Screenshot (34)](https://github.com/Ankitkhan08/text-manager/assets/100514516/9b9cd2ec-7138-4e5d-9091-88ca8a0208f5)
+![Screenshot (35)](https://github.com/Ankitkhan08/text-manager/assets/100514516/3aa38d00-c1be-4a5a-9e4f-7487a63f1e22)
+![Screenshot (36)](https://github.com/Ankitkhan08/text-manager/assets/100514516/e60a4fca-0f11-4692-b2ce-1783f7b18c20)
+
+
